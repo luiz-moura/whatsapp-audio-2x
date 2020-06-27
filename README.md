@@ -1,6 +1,6 @@
 # Extension Chrome Whatsapp audio 2x
 
-![Whatsapp Logo](whatsapp.png)
+![Whatsapp Logo](whatsapp.jpg)
 
 - [x] Created for people who hate to hear long audios on whatsapp
 - [x] Created for all people 🚀
